@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\bin\Debug\ProgramacionIII.exe.config
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\bin\Debug\ProgramacionIII.exe
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\bin\Debug\ProgramacionIII.pdb
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\obj\Debug\ProgramacionIII.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\obj\Debug\ProgramacionIII.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\obj\Debug\ProgramacionIII.exe
+C:\Users\user\Source\Repos\programacionIII\ProgramacionIII\obj\Debug\ProgramacionIII.pdb
