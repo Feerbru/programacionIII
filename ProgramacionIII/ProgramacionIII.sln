@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios", "Ejercicios", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasDeDesicion", "..\EstructurasDeDesicion\EstructurasDeDesicion.csproj", "{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasRepetitivas", "..\EstructurasRepetitivas\EstructurasRepetitivas.csproj", "{284F60AA-9E91-4E4F-B2E6-A2D37ECF1106}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284F60AA-9E91-4E4F-B2E6-A2D37ECF1106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284F60AA-9E91-4E4F-B2E6-A2D37ECF1106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284F60AA-9E91-4E4F-B2E6-A2D37ECF1106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284F60AA-9E91-4E4F-B2E6-A2D37ECF1106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{454B79C8-C176-458A-A6B7-45F6879BD59E} = {7718DAC8-2A99-42EC-B927-33D3A151335F}
 		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5} = {7718DAC8-2A99-42EC-B927-33D3A151335F}
+		{284F60AA-9E91-4E4F-B2E6-A2D37ECF1106} = {7718DAC8-2A99-42EC-B927-33D3A151335F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F971C131-FE06-4ABC-8E4F-4702677D779C}
