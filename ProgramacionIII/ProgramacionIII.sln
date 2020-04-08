@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacionIII", "ProgramacionIII.csproj", "{454B79C8-C176-458A-A6B7-45F6879BD59E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ejercicios", "Ejercicios", "{7718DAC8-2A99-42EC-B927-33D3A151335F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstructurasDeDesicion", "..\EstructurasDeDesicion\EstructurasDeDesicion.csproj", "{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,17 @@ Global
 		{454B79C8-C176-458A-A6B7-45F6879BD59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{454B79C8-C176-458A-A6B7-45F6879BD59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{454B79C8-C176-458A-A6B7-45F6879BD59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{454B79C8-C176-458A-A6B7-45F6879BD59E} = {7718DAC8-2A99-42EC-B927-33D3A151335F}
+		{60E7A5EC-9AB3-4DB8-B981-ECE156BD9EA5} = {7718DAC8-2A99-42EC-B927-33D3A151335F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F971C131-FE06-4ABC-8E4F-4702677D779C}

@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace ProgramacionIII
 {
     /*/
+     * Fernando Matias Bruzzo 
+     * 
      * Objetivo: Comprender el uso de variables, asignaciones y operaciones de forma simple en C#.
        Creación de una aplicación de consola
        Solicite el ingreso de dos valores por pantalla
