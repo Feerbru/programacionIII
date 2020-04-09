@@ -20,7 +20,22 @@ namespace EstructurasRepetitivas
     {
         static void Main(string[] args)
         {
+            int [] arrayPersonas;
+            arrayPersonas = new int [10];
 
+            Console.WriteLine("Ingrese la altura de cada persona:");
+
+            for(int i = 0; i < arrayPersonas.Length; i++)
+            {
+                Console.WriteLine("Ingrese la altura de la {0} persona: ", (i + 1));
+                arrayPersonas[i] = int.Parse(Console.ReadLine());
+            }
+
+            foreach(int per in arrayPersonas)
+            {
+                Console.WriteLine("altura de {0}cm de la persona", per);
+            }
+            Console.ReadKey();
         }
     }
 }
