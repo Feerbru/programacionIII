@@ -21,7 +21,7 @@ namespace EstructurasRepetitivas
         static void Main(string[] args)
         {
             int [] arrayPersonas;
-            arrayPersonas = new int [5];
+            arrayPersonas = new int [10];
 
             //Cargamos el arreglo
             for(int i = 0; i < arrayPersonas.Length; i++)
@@ -48,6 +48,7 @@ namespace EstructurasRepetitivas
 
             Console.WriteLine("La altura media es: {0} cm{1}", media, Environment.NewLine);
 
+            //Calculamos que persona esta por arriba y por abajo de la media
             for(int i = 0; i < arrayPersonas.Length; ++ i)
                 if (media < arrayPersonas[i])
                     Console.WriteLine("La {0} persona esta por encima de la altura media", (i+1));
@@ -61,14 +62,26 @@ namespace EstructurasRepetitivas
             double datosV = 0;
 
             for (int i = 0; i < arrayPersonas.Length; ++i)
+            {
                 //Conversion explicita a double para emplear el metodo Pow
                 datosV += Math.Pow(Convert.ToDouble(arrayPersonas[i]) - Convert.ToDouble(media), 2);
+            }
 
-            var totalV = datosV / (arrayPersonas.Length - 1);
+            //Varianza
+            var totalV = datosV / arrayPersonas.Length;
 
             Console.WriteLine("Desviacion estandar {0}{1}", Math.Sqrt(totalV), Environment.NewLine);
 
+            double totalV2 = totalV + totalV;
 
+            for(int i = 0; i < arrayPersonas.Length; i++)
+            {
+                if(arrayPersonas[i] > totalV && arrayPersonas[i] < totalV2)
+                {
+                    Console.WriteLine("La {0} persona se encuentra dentro del rango definido", (i + 1));
+                }
+            }
+            
             Console.ReadKey();
         }
     }
