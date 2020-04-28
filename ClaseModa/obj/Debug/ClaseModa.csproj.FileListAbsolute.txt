@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\programacionIII\ClaseModa\bin\Debug\ClaseModa.exe.config
+C:\Users\user\source\repos\programacionIII\ClaseModa\bin\Debug\ClaseModa.exe
+C:\Users\user\source\repos\programacionIII\ClaseModa\bin\Debug\ClaseModa.pdb
+C:\Users\user\source\repos\programacionIII\ClaseModa\obj\Debug\ClaseModa.csprojAssemblyReference.cache
+C:\Users\user\source\repos\programacionIII\ClaseModa\obj\Debug\ClaseModa.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\programacionIII\ClaseModa\obj\Debug\ClaseModa.exe
+C:\Users\user\source\repos\programacionIII\ClaseModa\obj\Debug\ClaseModa.pdb
