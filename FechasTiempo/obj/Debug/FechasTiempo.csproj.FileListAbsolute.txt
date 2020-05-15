@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\programacionIII\FechasTiempo\bin\Debug\FechasTiempo.exe.config
+C:\Users\user\source\repos\programacionIII\FechasTiempo\bin\Debug\FechasTiempo.exe
+C:\Users\user\source\repos\programacionIII\FechasTiempo\bin\Debug\FechasTiempo.pdb
+C:\Users\user\source\repos\programacionIII\FechasTiempo\obj\Debug\FechasTiempo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\programacionIII\FechasTiempo\obj\Debug\FechasTiempo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\programacionIII\FechasTiempo\obj\Debug\FechasTiempo.exe
+C:\Users\user\source\repos\programacionIII\FechasTiempo\obj\Debug\FechasTiempo.pdb

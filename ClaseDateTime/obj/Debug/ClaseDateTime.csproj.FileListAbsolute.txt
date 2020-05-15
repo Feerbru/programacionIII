@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\bin\Debug\ClaseDateTime.exe.config
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\bin\Debug\ClaseDateTime.exe
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\bin\Debug\ClaseDateTime.pdb
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\obj\Debug\ClaseDateTime.csprojAssemblyReference.cache
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\obj\Debug\ClaseDateTime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\obj\Debug\ClaseDateTime.exe
+C:\Users\user\source\repos\programacionIII\ClaseDateTime\obj\Debug\ClaseDateTime.pdb
